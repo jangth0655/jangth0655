@@ -10,4 +10,5 @@
 <code><img height="25" src="https://skillicons.dev/icons?i=react"></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=nextjs"></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=tailwindcss"></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=prisma"></code>
 
