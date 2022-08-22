@@ -3,6 +3,8 @@
 
 <br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangth0655)
+
 <h2>Tools 📚</h2>
 <code><img height="25" src="https://skillicons.dev/icons?i=js,html,css"></code>
 <code><img height="25" src="https://skillicons.dev/icons?i=typescript"></code>
