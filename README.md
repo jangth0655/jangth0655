@@ -5,9 +5,9 @@
 State
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangth0655&layout=compact&hide=contribs,prs&count_private=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangth0655&layout=compact&hide=contribs,prs&count_private=true&theme=radical)
 
-![Taehee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangth0655&count_private=true&theme=radical&show_icons=true&hide=contribs,prs&hide_border=true)
+![Taehee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangth0655&count_private=true&theme=radical&show_icons=true&hide=contribs,prs)
 
 ---
 <h2>Tools 📚</h2>
