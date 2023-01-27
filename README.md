@@ -22,7 +22,7 @@
 
 ---
 
-![Taehee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangth0655&layout=compact&hide=contribs,prs&count_private=true&theme=radical&count_private=true)
 
+[![Taehee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangth0655&hide=issues&show_icons=true&theme=radical)](https://github.com/jangth0655/github-readme-stats)
 
 
