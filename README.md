@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JangTaeHee&fontSize=60)
 
-안녕하십니까 프론트엔드 엔지니어를 꿈꾸고 있는 장태희 입니다!!!
+안녕하십니까? 😄 
+프론트엔드 엔지니어 장태희입니다 :)
 
 ---
 
