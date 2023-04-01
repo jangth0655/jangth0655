@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JangTaeHee&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=TaeHee&fontSize=60)
 
 안녕하십니까? 😄 
 프론트엔드 엔지니어 장태희입니다 :)
