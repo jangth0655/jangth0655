@@ -6,7 +6,6 @@
 ---
 
 - 📨 이메일 : jangth0655@gmail.com
-- 📒 blog : https://taehee-homepage.vercel.app/
 
 ---
 
@@ -24,6 +23,5 @@
 ---
 
 
-[![Taehee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangth0655&hide=issues&show_icons=true&theme=radical)](https://github.com/jangth0655/github-readme-stats)
 
 
